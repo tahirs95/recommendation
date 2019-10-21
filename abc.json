@@ -1,0 +1,37 @@
+[
+{
+"item": "Item #1",
+"colors": ["Yellow"],
+"weather": ["Sun", "Wind"],
+"category": ["Shoes"]
+},
+{
+"item": "Item #1",
+"colors": ["Yellow"],
+"weather": ["Sun", "Wind"],
+"category": ["Sandals"]
+},
+{
+"item": "Item #2",
+"colors": ["Blue"],
+"weather": ["Rain"],
+"category": ["Jacket"]
+},
+{
+"item": "Item #3",
+"colors": ["Black", "Yellow"],
+"weather": ["Rain"],
+"category": ["Jacket"]
+},
+{
+"item": "Item #5",
+"colors": ["White"],
+"weather": ["Cloudy"],
+"category": ["Sweater"]
+},
+{
+"item": "Item #4",
+"colors": ["Yellow"],
+"weather": ["Rain"],
+"category": ["Trousers"]
+}]
